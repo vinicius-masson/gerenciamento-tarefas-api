@@ -1,3 +1,7 @@
+## Requisitos
+
+.NET 8, SQL Server 2022
+
 ## Configuração da Connection String
 
 Antes de rodar a API, edite o arquivo "appsettings.json" e configure sua própria connection string:
