@@ -1,0 +1,6 @@
+@GerenciamentoTarefas.API_HostAddress = http://localhost:5255
+
+GET {{GerenciamentoTarefas.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "GerenciamentoTarefas.API.Controllers.TarefasController",
+    "Method": "Get",
+    "RelativePath": "api/tarefas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GerenciamentoTarefas.API.Controllers.TarefasController",
+    "Method": "GetById",
+    "RelativePath": "api/tarefas/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GerenciamentoTarefas.API.Controllers.TarefasController",
+    "Method": "Delete",
+    "RelativePath": "api/tarefas/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GerenciamentoTarefas.API.Controllers.TarefasController",
+    "Method": "Put",
+    "RelativePath": "api/tarefas/atualizar-tarefa/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "GerenciamentoTarefas.Application.DTOs.TarefaDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GerenciamentoTarefas.API.Controllers.TarefasController",
+    "Method": "Post",
+    "RelativePath": "api/tarefas/criar-tarefa",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "GerenciamentoTarefas.Application.DTOs.TarefaDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

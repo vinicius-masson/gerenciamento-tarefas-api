@@ -1,0 +1,17 @@
+C:\Users\Vinny\OneDrive\Documentos\Profissional\GerenciamentoTarefas.API\GerenciamentoTarefas.Application\bin\Debug\net8.0\GerenciamentoTarefas.Application.deps.json
+C:\Users\Vinny\OneDrive\Documentos\Profissional\GerenciamentoTarefas.API\GerenciamentoTarefas.Application\bin\Debug\net8.0\GerenciamentoTarefas.Application.dll
+C:\Users\Vinny\OneDrive\Documentos\Profissional\GerenciamentoTarefas.API\GerenciamentoTarefas.Application\bin\Debug\net8.0\GerenciamentoTarefas.Application.pdb
+C:\Users\Vinny\OneDrive\Documentos\Profissional\GerenciamentoTarefas.API\GerenciamentoTarefas.Application\bin\Debug\net8.0\GerenciamentoTarefas.Domain.dll
+C:\Users\Vinny\OneDrive\Documentos\Profissional\GerenciamentoTarefas.API\GerenciamentoTarefas.Application\bin\Debug\net8.0\GerenciamentoTarefas.Infrastructure.dll
+C:\Users\Vinny\OneDrive\Documentos\Profissional\GerenciamentoTarefas.API\GerenciamentoTarefas.Application\bin\Debug\net8.0\GerenciamentoTarefas.Domain.pdb
+C:\Users\Vinny\OneDrive\Documentos\Profissional\GerenciamentoTarefas.API\GerenciamentoTarefas.Application\bin\Debug\net8.0\GerenciamentoTarefas.Infrastructure.pdb
+C:\Users\Vinny\OneDrive\Documentos\Profissional\GerenciamentoTarefas.API\GerenciamentoTarefas.Application\obj\Debug\net8.0\GerenciamentoTarefas.Application.csproj.AssemblyReference.cache
+C:\Users\Vinny\OneDrive\Documentos\Profissional\GerenciamentoTarefas.API\GerenciamentoTarefas.Application\obj\Debug\net8.0\GerenciamentoTarefas.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinny\OneDrive\Documentos\Profissional\GerenciamentoTarefas.API\GerenciamentoTarefas.Application\obj\Debug\net8.0\GerenciamentoTarefas.Application.AssemblyInfoInputs.cache
+C:\Users\Vinny\OneDrive\Documentos\Profissional\GerenciamentoTarefas.API\GerenciamentoTarefas.Application\obj\Debug\net8.0\GerenciamentoTarefas.Application.AssemblyInfo.cs
+C:\Users\Vinny\OneDrive\Documentos\Profissional\GerenciamentoTarefas.API\GerenciamentoTarefas.Application\obj\Debug\net8.0\GerenciamentoTarefas.Application.csproj.CoreCompileInputs.cache
+C:\Users\Vinny\OneDrive\Documentos\Profissional\GerenciamentoTarefas.API\GerenciamentoTarefas.Application\obj\Debug\net8.0\Gerencia.AFB1310E.Up2Date
+C:\Users\Vinny\OneDrive\Documentos\Profissional\GerenciamentoTarefas.API\GerenciamentoTarefas.Application\obj\Debug\net8.0\GerenciamentoTarefas.Application.dll
+C:\Users\Vinny\OneDrive\Documentos\Profissional\GerenciamentoTarefas.API\GerenciamentoTarefas.Application\obj\Debug\net8.0\refint\GerenciamentoTarefas.Application.dll
+C:\Users\Vinny\OneDrive\Documentos\Profissional\GerenciamentoTarefas.API\GerenciamentoTarefas.Application\obj\Debug\net8.0\GerenciamentoTarefas.Application.pdb
+C:\Users\Vinny\OneDrive\Documentos\Profissional\GerenciamentoTarefas.API\GerenciamentoTarefas.Application\obj\Debug\net8.0\ref\GerenciamentoTarefas.Application.dll

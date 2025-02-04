@@ -1,0 +1,11 @@
+C:\Users\Vinny\OneDrive\Documentos\Profissional\GerenciamentoTarefas.API\GerenciamentoTarefas.Domain\bin\Debug\net8.0\GerenciamentoTarefas.Domain.deps.json
+C:\Users\Vinny\OneDrive\Documentos\Profissional\GerenciamentoTarefas.API\GerenciamentoTarefas.Domain\bin\Debug\net8.0\GerenciamentoTarefas.Domain.dll
+C:\Users\Vinny\OneDrive\Documentos\Profissional\GerenciamentoTarefas.API\GerenciamentoTarefas.Domain\bin\Debug\net8.0\GerenciamentoTarefas.Domain.pdb
+C:\Users\Vinny\OneDrive\Documentos\Profissional\GerenciamentoTarefas.API\GerenciamentoTarefas.Domain\obj\Debug\net8.0\GerenciamentoTarefas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinny\OneDrive\Documentos\Profissional\GerenciamentoTarefas.API\GerenciamentoTarefas.Domain\obj\Debug\net8.0\GerenciamentoTarefas.Domain.AssemblyInfoInputs.cache
+C:\Users\Vinny\OneDrive\Documentos\Profissional\GerenciamentoTarefas.API\GerenciamentoTarefas.Domain\obj\Debug\net8.0\GerenciamentoTarefas.Domain.AssemblyInfo.cs
+C:\Users\Vinny\OneDrive\Documentos\Profissional\GerenciamentoTarefas.API\GerenciamentoTarefas.Domain\obj\Debug\net8.0\GerenciamentoTarefas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Vinny\OneDrive\Documentos\Profissional\GerenciamentoTarefas.API\GerenciamentoTarefas.Domain\obj\Debug\net8.0\GerenciamentoTarefas.Domain.dll
+C:\Users\Vinny\OneDrive\Documentos\Profissional\GerenciamentoTarefas.API\GerenciamentoTarefas.Domain\obj\Debug\net8.0\refint\GerenciamentoTarefas.Domain.dll
+C:\Users\Vinny\OneDrive\Documentos\Profissional\GerenciamentoTarefas.API\GerenciamentoTarefas.Domain\obj\Debug\net8.0\GerenciamentoTarefas.Domain.pdb
+C:\Users\Vinny\OneDrive\Documentos\Profissional\GerenciamentoTarefas.API\GerenciamentoTarefas.Domain\obj\Debug\net8.0\ref\GerenciamentoTarefas.Domain.dll

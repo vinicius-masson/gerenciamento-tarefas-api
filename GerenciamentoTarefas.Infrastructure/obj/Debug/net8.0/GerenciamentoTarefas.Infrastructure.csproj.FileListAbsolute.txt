@@ -1,0 +1,17 @@
+C:\Users\Vinny\OneDrive\Documentos\Profissional\GerenciamentoTarefas.API\GerenciamentoTarefas.Infrastructure\bin\Debug\net8.0\GerenciamentoTarefas.Infrastructure.deps.json
+C:\Users\Vinny\OneDrive\Documentos\Profissional\GerenciamentoTarefas.API\GerenciamentoTarefas.Infrastructure\bin\Debug\net8.0\GerenciamentoTarefas.Infrastructure.runtimeconfig.json
+C:\Users\Vinny\OneDrive\Documentos\Profissional\GerenciamentoTarefas.API\GerenciamentoTarefas.Infrastructure\bin\Debug\net8.0\GerenciamentoTarefas.Infrastructure.dll
+C:\Users\Vinny\OneDrive\Documentos\Profissional\GerenciamentoTarefas.API\GerenciamentoTarefas.Infrastructure\bin\Debug\net8.0\GerenciamentoTarefas.Infrastructure.pdb
+C:\Users\Vinny\OneDrive\Documentos\Profissional\GerenciamentoTarefas.API\GerenciamentoTarefas.Infrastructure\bin\Debug\net8.0\GerenciamentoTarefas.Domain.dll
+C:\Users\Vinny\OneDrive\Documentos\Profissional\GerenciamentoTarefas.API\GerenciamentoTarefas.Infrastructure\bin\Debug\net8.0\GerenciamentoTarefas.Domain.pdb
+C:\Users\Vinny\OneDrive\Documentos\Profissional\GerenciamentoTarefas.API\GerenciamentoTarefas.Infrastructure\obj\Debug\net8.0\GerenciamentoTarefas.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Vinny\OneDrive\Documentos\Profissional\GerenciamentoTarefas.API\GerenciamentoTarefas.Infrastructure\obj\Debug\net8.0\GerenciamentoTarefas.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinny\OneDrive\Documentos\Profissional\GerenciamentoTarefas.API\GerenciamentoTarefas.Infrastructure\obj\Debug\net8.0\GerenciamentoTarefas.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Vinny\OneDrive\Documentos\Profissional\GerenciamentoTarefas.API\GerenciamentoTarefas.Infrastructure\obj\Debug\net8.0\GerenciamentoTarefas.Infrastructure.AssemblyInfo.cs
+C:\Users\Vinny\OneDrive\Documentos\Profissional\GerenciamentoTarefas.API\GerenciamentoTarefas.Infrastructure\obj\Debug\net8.0\GerenciamentoTarefas.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Vinny\OneDrive\Documentos\Profissional\GerenciamentoTarefas.API\GerenciamentoTarefas.Infrastructure\obj\Debug\net8.0\Gerencia.6CDBE39A.Up2Date
+C:\Users\Vinny\OneDrive\Documentos\Profissional\GerenciamentoTarefas.API\GerenciamentoTarefas.Infrastructure\obj\Debug\net8.0\GerenciamentoTarefas.Infrastructure.dll
+C:\Users\Vinny\OneDrive\Documentos\Profissional\GerenciamentoTarefas.API\GerenciamentoTarefas.Infrastructure\obj\Debug\net8.0\refint\GerenciamentoTarefas.Infrastructure.dll
+C:\Users\Vinny\OneDrive\Documentos\Profissional\GerenciamentoTarefas.API\GerenciamentoTarefas.Infrastructure\obj\Debug\net8.0\GerenciamentoTarefas.Infrastructure.pdb
+C:\Users\Vinny\OneDrive\Documentos\Profissional\GerenciamentoTarefas.API\GerenciamentoTarefas.Infrastructure\obj\Debug\net8.0\GerenciamentoTarefas.Infrastructure.genruntimeconfig.cache
+C:\Users\Vinny\OneDrive\Documentos\Profissional\GerenciamentoTarefas.API\GerenciamentoTarefas.Infrastructure\obj\Debug\net8.0\ref\GerenciamentoTarefas.Infrastructure.dll

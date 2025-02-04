@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "+LX7plAJH61dMHNSFj9rr+IedHYX674VBkeXV/uaPsg=",
+  "Source": "GerenciamentoTarefas.API",
+  "BasePath": "_content/GerenciamentoTarefas.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
